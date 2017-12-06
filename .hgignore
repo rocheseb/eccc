@@ -1,0 +1,7 @@
+syntax: glob
+
+*.pyc
+*.html
+*.nc
+*.csv
+___pycache__
